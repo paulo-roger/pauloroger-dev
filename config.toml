@@ -3,7 +3,7 @@
 # https://gohugo.io/getting-started/configuration #
 ###################################################
 
-baseURL = "/" # website root path
+baseURL = "pauloroger.dev" # website root path
 disqusShortname = ""               # disqus shortcode
 enableGitInfo = false              # retrieve last modified date from git commits
 enableRobotsTXT = true             # /robots.txt
