@@ -15,3 +15,5 @@ On my spare time I'm a forever Dungeon Master™ and I love to come up with new 
 Another hobby I have is music, and I can't help but quote Nietzsche ["Without music, life would be a mistake."](https://en.wikipedia.org/wiki/Portal:Classical_music/Quotes/5). I know it is a cliché but still it is powerful and true. Anyway, when I am not composing I like to play some Running Wild, Savatage, Iron Maiden, you know the drill.
 
 <3 Married with the best wife I could ever dream and father to two little pomeranians (Arien and Yuki).
+
+If you would like to reach me, my email is: [me@pauloroger.dev][mailto:me@pauloroger.dev]
