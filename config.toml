@@ -55,7 +55,7 @@ tags = "tags"
 ########################
 
 [params]
-description = "personal blog" # website description
+description = "PR's personal blog" # website description
 favicon = "favicon.webp" # path to website icon, relative to ./static
 footnote = """
 Follow me on <a class=link href=https://github.com/paulo-roger>GitHub</a>,

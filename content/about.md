@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "PR developer"
+description = "PR's personal blog"
 date = "2022-04-06"
 aliases = ["about-me", "about-paulo", "contact"]
 author = "PR"
