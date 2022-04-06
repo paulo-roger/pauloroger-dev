@@ -4,8 +4,6 @@ date: 2022-04-06T00:48:02-03:00
 draft: false
 ---
 
-# My First Post
-
 Writing is somewhat hard for me, at least writing something that others are capable of reading, on top of that english isn't even my first language, so I am probably doing so many mistakes. But well, as everything in life you got to practice and read the error codes, or something like that. :)
 
 I think this blog will be a good exercise, I was inspired by other developers and geeks that also keep their blogs, and I would like to mention and thank [Sky Leite](https://leite.dev/) for presenting me [HUGO](https://gohugo.io/). And of course her blog simple design inspired me. As I told her, it is so nostalgic to me at least, looks like those old internet pages simple but also elegant in a way.  I am such a nostalgic... Now I am looking up [duckduckgo](https://duckduckgo.com/) for a IRC client, do you remember IRC? what about ICQ or maybe the youngsters will remember MSN Messenger?
