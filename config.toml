@@ -13,7 +13,7 @@ languageCode = "en"                # content language
 paginate = 5                       # number of posts each page
 rssLimit = 10                      # maximum items in rss feeds
 theme = "hugo-theme-texify"        # theme directory name
-title = "PauloRoger.dev"                   # website title
+title = "Paulo Roger.dev"                   # website title
 
 [author]
 email = "email@pauloroger.dev" # your email
@@ -29,8 +29,8 @@ style = "emacs" # syntax highlight style, see https://xyproto.github.io/splash/d
 
 # https://gohugo.io/content-management/menus/
 [[menu.main]] # sections in the website header
-identifier = "post" # section id
-name = "Post"       # section display title
+identifier = "main" # section id
+name = "Main"       # section display title
 url = "/"           # path to the section
 weight = 1          # order of sections
 [[menu.main]]

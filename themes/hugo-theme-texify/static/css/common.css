@@ -132,7 +132,11 @@ time {
 
 #header > h1 {
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 12px;
+}
+
+.nav-bar-item {
+	margin-right: 20px;
 }
 
 @media screen and (min-width: 768px) {
@@ -144,7 +148,7 @@ time {
 #header > nav {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
     max-width: 768px;
     width: 100%;
