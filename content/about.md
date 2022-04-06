@@ -12,6 +12,6 @@ I've played a lot with VBA and Excel, some C coding in college, then learned my 
 
 On my spare time I'm a forever Dungeon Master™ and I love to come up with new RPG rules systems and ~~debatable~~ improvements to D&D 5e. Also I love to write stories and invent worlds for my players to dwell in. I believe this kind of hobby is relaxing and very welcome in the current world we live in...
 
-Another hobby I have is music, and I can't help but quote Nietzsche "without music life is a mistake". I know it is a cliché but still it is powerful and true. Anyway, when I am not writing my own songs I like to play some Running Wild, Savatage, Iron Maiden, you know the drill.
+Another hobby I have is music, and I can't help but quote Nietzsche ["Without music, life would be a mistake."](https://en.wikipedia.org/wiki/Portal:Classical_music/Quotes/5). I know it is a cliché but still it is powerful and true. Anyway, when I am not composing I like to play some Running Wild, Savatage, Iron Maiden, you know the drill.
 
 <3 Married with the best wife I could ever dream and father to two little pomeranians (Arien and Yuki).
