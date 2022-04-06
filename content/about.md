@@ -16,4 +16,4 @@ Another hobby I have is music, and I can't help but quote Nietzsche ["Without mu
 
 <3 Married with the best wife I could ever dream and father to two little pomeranians (Arien and Yuki).
 
-If you would like to reach me, my email is: [me@pauloroger.dev][mailto:me@pauloroger.dev]
+If you would like to reach me, my email is: [me@pauloroger.dev](mailto:me@pauloroger.dev)
