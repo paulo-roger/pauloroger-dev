@@ -70,6 +70,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    background-color: #202225;
 }
 
 a {
@@ -96,7 +97,7 @@ span.word-count {
 
 #wrapper {
     color: #e8e6e3;
-    background-color: #202225;
+    /* background-color: #202225; */
     display: flex;
     flex-direction: column;
     /* font-family: 'Latin Modern Roman', 'Times New Roman', serif; */
