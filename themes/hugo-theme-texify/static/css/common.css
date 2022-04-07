@@ -85,12 +85,12 @@ time {
 
 .article-info {
 	padding: 0;
-    color: gray;
+    color: #e8e6e3 !important;
 }
 
 span.word-count {
     float: right;
-    color: gray;
+    /* color: gray; */
     min-width: 5rem;
 }
 
