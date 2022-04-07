@@ -8,7 +8,7 @@ disqusShortname = ""               # disqus shortcode
 enableGitInfo = true              # retrieve last modified date from git commits
 enableRobotsTXT = true             # /robots.txt
 googleAnalytics = ""               # google analytics id
-hasCJKLanguage = true              # Chinese/Japanese/Korean
+hasCJKLanguage = false              # Chinese/Japanese/Korean
 languageCode = "en"                # content language
 paginate = 5                       # number of posts each page
 rssLimit = 10                      # maximum items in rss feeds
@@ -68,7 +68,7 @@ customCSS = []            # path to custom css files, relative to ./static
 customJS = []             # path to custom js files, relative to ./static
 dateFormat = "2006-01-02" # date format, see https://gohugo.io/functions/format/
 fullTextRSS = true        # output full-text (instead of only summary) rss
-emphasisWithDots = true   # use dots to emphasize chinese texts, see https://zh.wikipedia.org/wiki/%E7%9D%80%E9%87%8D%E5%8F%B7
+emphasisWithDots = false   # use dots to emphasize chinese texts, see https://zh.wikipedia.org/wiki/%E7%9D%80%E9%87%8D%E5%8F%B7
 since = "2022"            # website created year
 toc = true               # whether to enable table of contents in posts
 
