@@ -177,6 +177,7 @@ span.word-count {
     flex-direction: column;
     flex-grow: 1;
     max-width: 768px;
+    margin-bottom: 2rem;
     margin-top: .8rem;
     width: calc(100% - 2rem);
 }
