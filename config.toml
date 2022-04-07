@@ -16,7 +16,7 @@ theme = "hugo-theme-texify"        # theme directory name
 title = "Paulo Roger.dev"                   # website title
 
 [author]
-email = "email@pauloroger.dev" # your email
+email = "me@pauloroger.dev" # your email
 name = "Paulo Roger"          # your name
 
 # https://gohugo.io/getting-started/configuration-markup

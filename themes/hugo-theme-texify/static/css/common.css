@@ -79,7 +79,18 @@ a {
 
 time {
     color: gray;
-    margin-left: 1rem;
+    /* margin-left: 1rem; */
+    min-width: 5rem;
+}
+
+.article-info {
+	padding: 0;
+    color: gray;
+}
+
+span.word-count {
+    float: right;
+    color: gray;
     min-width: 5rem;
 }
 
@@ -166,7 +177,7 @@ time {
     flex-direction: column;
     flex-grow: 1;
     max-width: 768px;
-    padding: 2rem 0;
+    margin-top: .8rem;
     width: calc(100% - 2rem);
 }
 

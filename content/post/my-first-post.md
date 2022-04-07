@@ -2,6 +2,7 @@
 title: "My First Post"
 date: 2022-04-06T00:48:02-03:00
 draft: false
+tags: [blog, nostalgia, thoughts]
 ---
 
 Writing is somewhat hard for me, at least writing something that others are capable of reading, on top of that english isn't even my first language, so I am probably doing so many mistakes. But well, as everything in life you get to practice and read the error codes, or something like that. :)
