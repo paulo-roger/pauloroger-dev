@@ -18,7 +18,7 @@
   <h1>{{ .Title }}</h1>
   {{ if ne .Params.tags nil }}
   <div class="article-info">
-    Keywords:
+    Tags:
     {{ range .Params.tags }}
     <a class="link" href='{{ "tags" | absURL }}/{{ . | urlize }}'>#{{ . }}</a>
     {{ end }}
