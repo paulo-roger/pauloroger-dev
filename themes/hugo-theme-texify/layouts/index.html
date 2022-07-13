@@ -1,5 +1,12 @@
 {{ define "head" }}
 <link rel="stylesheet" href='{{ "css/index.css" | absURL }}'>
+
+{{ if .IsTranslated }}
+	{{ range .Translations }}
+	<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+	{{ end }}
+{{ end }}
+
 {{ end }}
 
 {{ define "main" }}

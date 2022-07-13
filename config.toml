@@ -72,6 +72,16 @@ emphasisWithDots = false   # use dots to emphasize chinese texts, see https://zh
 since = "2022"            # website created year
 toc = true               # whether to enable table of contents in posts
 
+defaultContentLanguage = 'en'
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.pt-br]
+languageName = "Brazilian Portuguese"
+weight = 2
+
 # https://giscus.app
 [params.giscus]
 enable = false # whether to enable giscus
