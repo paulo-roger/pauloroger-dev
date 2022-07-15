@@ -6,7 +6,7 @@ aliases = ["about-me", "about-paulo", "contact"]
 author = "PR"
 +++
 
-Hi! I am Paulo, a mechanical engineer who fell in love with coding during college and never stopped to pursue this hobby until it became my life and now my job too.
+Hi! I am Paulo, a mechanical engineer who fell in love with coding during college and never stopped to pursue this hobby until it became part of my life and now my job too.
 
 I've played a lot with VBA and Excel, some C coding in college, then learned my way through javascript and nowadays I am exploring Sales Force Commerce Cloud development, trying to improve everyday. I enjoy playing with algorithms and math.
 

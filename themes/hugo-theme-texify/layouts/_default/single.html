@@ -18,7 +18,7 @@
   <h1>{{ .Title }}</h1>
   {{ if ne .Params.tags nil }}
   <div class="article-info">
-    Tags:
+    {{ i18n "tags" }}:
     {{ range .Params.tags }}
     <a class="link" href='{{ "tags" | absURL }}/{{ . | urlize }}'>#{{ . }}</a>
     {{ end }}
@@ -35,8 +35,8 @@
   {{ end }}
   {{ end }}
   <span class="article-info">
-    <time class="article-info">Published on {{ .PublishDate.Format "January 2, 2006" }}</time>
-    <span class="word-count">{{ .WordCount }} words</span>
+    <time class="article-info">{{ i18n "publishedon" }} {{ .Date | time.Format ":date_long" }}</time>
+    <span class="word-count">{{ .WordCount }} {{ i18n "words" }}</span>
   </span>
   <article class="content">
     {{ if .Site.Params.emphasisWithDots }}

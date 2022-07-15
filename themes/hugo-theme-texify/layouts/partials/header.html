@@ -3,6 +3,19 @@
     <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
   </h1>
 
+
+  <ul class="lang">
+    <li><a href="/"> 🇬🇧 EN</a></li>
+    <li><a href="/pt-br/"> 🇧🇷 PT-BR</a></li>
+  </ul>
+
+  <!-- Listagem Automatica de idiomas -->
+  <!-- <ul class="lang">
+    {{ range $.Site.Home.AllTranslations }}
+    <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }} </a></li>
+    {{ end }}
+  </ul> -->
+
   <nav>
     {{ range .Site.Menus.main }}
     <span class="nav-bar-item">
