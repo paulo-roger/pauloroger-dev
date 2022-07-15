@@ -145,7 +145,8 @@ span.word-count {
 .lang {
     display: block;
     position: absolute;
-    right: 100px
+    right: 100px;
+    top: 25px
 }
 
 #header > h1 {

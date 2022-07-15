@@ -3,11 +3,25 @@
     <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
   </h1>
 
-
-  <ul class="lang">
+  <!-- <ul class="lang">
     <li><a href="/"> 🇬🇧 EN</a></li>
     <li><a href="/pt-br/"> 🇧🇷 PT-BR</a></li>
+  </ul> -->
+
+  {{ if .IsTranslated }}
+	<ul class="lang">
+	{{ range .Translations }}
+  {{ if eq .Site.Language.Lang "en" }}
+		<a href="{{ .Permalink }}"> 🇬🇧 EN</a><br>
+    <a href="/pt-br/"> 🇧🇷 PT-BR</a>
+  {{ else }}
+  <a href="/"> 🇬🇧 EN</a><br>  
+  <a href="{{ .Permalink }}"> 🇧🇷 PT-BR</a>
+	{{ end}}
   </ul>
+  {{ end }}
+  {{ end }}
+
 
   <!-- Listagem Automatica de idiomas -->
   <!-- <ul class="lang">
