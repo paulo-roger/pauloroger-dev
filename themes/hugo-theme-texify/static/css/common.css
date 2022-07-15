@@ -158,7 +158,7 @@ span.word-count {
         top: 0px;
         margin-bottom: 10px;
         flex-direction: row;
-        column-gap: 10px;
+        column-gap: 14px;
     }
 }
 
