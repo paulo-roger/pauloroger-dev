@@ -143,10 +143,23 @@ span.word-count {
 }
 
 .lang {
-    display: block;
+    display: flex;
     position: absolute;
     right: 100px;
-    top: 25px
+    top: 25px;
+    flex-direction: column;
+}
+
+/* Mobile */
+@media only screen and (max-width: 768px) {
+    .lang {
+        position: relative;
+        right: 0px;
+        top: 0px;
+        margin-bottom: 10px;
+        flex-direction: row;
+        column-gap: 10px;
+    }
 }
 
 #header > h1 {
