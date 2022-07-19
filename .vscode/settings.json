@@ -3,5 +3,9 @@
         "Arien",
         "Paulo",
         "Yuki"
+    ],
+    "cSpell.language": "en,pt-BR",
+    "cSpell.enableFiletypes": [
+        "markdown-math"
     ]
 }

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Paulo Roger.dev</title>
+    <link>https://pauloroger.dev/post/</link>
+    <description>Recent content in Posts on Paulo Roger.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@pauloroger.dev (Paulo Roger)</managingEditor>
+    <webMaster>me@pauloroger.dev (Paulo Roger)</webMaster>
+    <lastBuildDate>Wed, 06 Apr 2022 00:48:02 -0300</lastBuildDate><atom:link href="https://pauloroger.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://pauloroger.dev/post/my-first-post/</link>
+      <category> #blog  #nostalgia  #thoughts </category>
+      <pubDate>Wed, 06 Apr 2022 00:48:02 -0300</pubDate>
+      <author>me@pauloroger.dev (Paulo Roger)</author>
+      <guid>https://pauloroger.dev/post/my-first-post/</guid>
+      
+      <description>&lt;p&gt;Writing is somewhat hard for me, at least writing something that others are capable of reading, on top of that english isn&amp;rsquo;t even my first language, so I am probably doing so many mistakes. But well, as everything in life you get to practice and read the error codes, or something like that. :)&lt;/p&gt;
+&lt;p&gt;I think this blog will be a good exercise, I was inspired by other developers and geeks that also keep their blogs, and I would like to mention and thank &lt;a href=&#34;https://leite.dev/&#34;&gt;Sky Leite&lt;/a&gt; for presenting me &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;. And of course her blog simple design inspired me. As I told her, it is so nostalgic to me at least, looks like those old internet pages simple but also elegant in a way.  I am such a nostalgic&amp;hellip; Now I am looking up &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;duckduckgo&lt;/a&gt; for a IRC client, do you remember IRC? what about ICQ or maybe the youngsters will remember MSN Messenger?&lt;/p&gt;
+&lt;p&gt;The internet in the 90s and early 2000s was such a magical place for me as a kid, discovering new sites (without google back then), the term web surfing used to make sense, now we are 100% of time connected we don&amp;rsquo;t even value this anymore. I remember the very first site I accessed when I had my first PC at home, it was &lt;a href=&#34;https://www.queenonline.com/&#34;&gt;www.queenonline.com&lt;/a&gt; using MSN browser (yeah I was such an audacious newbie) and I was in awe as I looked at the pictures of Brian May playing the guitar and Freddie with arms open in &amp;lsquo;V&amp;rsquo;. If I knew how to download those pictures back in the day&amp;hellip;
+You know what, I just got an idea!&lt;/p&gt;
+&lt;p&gt;I am going to re-live that moment, I should have thought of this before, I am going to use &lt;a href=&#34;https://archive.org/web/&#34;&gt;waybackmachine&lt;/a&gt; and refresh my memory of that day. If there is some therapeutical aspect to writing I don&amp;rsquo;t know, but at the very least it helps to bring some ideas lol.&lt;/p&gt;
+&lt;p&gt;Again on the topic regarding the blog and writing, I had else another inspiration. Yesterday I found this folder with some backups of old bookmarks I had, and there it was &lt;a href=&#34;http://www.aaronsw.com/&#34;&gt;Aaron&amp;rsquo;s blog&lt;/a&gt;, may he rest in peace. Aaron is a big inspiration for me not only because of his work but because of the person he was. I strongly recommend for &lt;del&gt;every developer&lt;/del&gt; &lt;strong&gt;everyone&lt;/strong&gt; out there to read about him and watch the documentary of his life. He was such a brilliant person with a gigantic heart.&lt;/p&gt;
+&lt;p&gt;There is something valuable about the writing habit, I am realizing. I think it helps to organize my thoughts. I read some years ago that great personalities as in genius artists and thinkers used to walk around with a small notebook. In the moleskine page they mention &amp;ldquo;Vincent Van Gogh, Pablo Picasso, Ernest Hemingway and Bruce Chatwin.&amp;rdquo; I mean, I doubt they would buy a moleskine that costs over 5 times the price of a regular notebook. But maybe writing is some kind of secret those great minds had? I wonder what they used to write in their notebooks: Crazy ideas, thoughts, maybe secrets.&lt;/p&gt;
+&lt;p&gt;Ultimately, I think I have enough for a first post.&lt;/p&gt;
+&lt;p&gt;Peace!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pauloroger.dev/post/take-back-the-web/</link>
+      <category></category>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>me@pauloroger.dev (Paulo Roger)</author>
+      <guid>https://pauloroger.dev/post/take-back-the-web/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
