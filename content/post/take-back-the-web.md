@@ -7,7 +7,7 @@ tags: [Internet, Web, FOSS, Firefox]
 
 Maybe you are already a Firefox user, we are part of a minority on the web today, and think that this text is not for you. You're probably right, but I'd like to make a few points here and ask for your help in taking the web back before it's too late.
 
-And if you don't use [Firefox](https://www.mozilla.org/en-US/firefox/new/), you've been using some version of Chrome (Edge, Opera, Brave or Vivaldi) a few years ago this wouldn't necessarily be a bad thing, but today it's bad for the health and freedom of an web that respect privacy and is not controlled by capitalist corporations, the so-called Big Techs.
+And if you don't use [Firefox](https://www.mozilla.org/en-US/firefox/new/), you've been using some version of Chromium (Chrome, Edge, Opera, Brave or Vivaldi) a few years ago this wouldn't necessarily be a bad thing, but today it's bad for the health and freedom of an web that respect privacy and is not controlled by capitalist corporations, the so-called Big Techs.
 
 In this article I will bring the importance of abandoning Chrome, explaining technical and practical motivations for doing so.
 In a next post I will demonstrate all the advantages of Firefox both for your privacy and for the usability and conveniences offered by the browser.
@@ -25,4 +25,4 @@ Since 2018 Google has announced Manifesto V3, which among other things will make
 
 I forgot to talk more about Safari, which today is practically the new Internet Explorer, at least 5 years behind other browsers. Therefore I'm not even going to waste time on this.
 
-To conclude, if chrome continues without competition, there won't be much of a free web in the future. That's why I appeal to you, a Chromium browser user, to consider trying [Firefox](https://www.mozilla.org/pt-BR/firefox/new/), and you Firefox user, pass on this message .
+To conclude, if Chromium continues without competition, there won't be much of a free web in the future. That's why I appeal to you, a Chromium browser user, to consider trying [Firefox](https://www.mozilla.org/pt-BR/firefox/new/), and you Firefox user, pass on this message.
