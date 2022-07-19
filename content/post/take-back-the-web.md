@@ -25,4 +25,4 @@ Since 2018 Google has announced Manifesto V3, which among other things will make
 
 I forgot to talk more about Safari, which today is practically the new Internet Explorer, at least 5 years behind other browsers. Therefore I'm not even going to waste time on this.
 
-To conclude, if Chromium continues without competition, there won't be much of a free web in the future. That's why I appeal to you, a Chromium browser user, to consider trying [Firefox](https://www.mozilla.org/pt-BR/firefox/new/), and you Firefox user, pass on this message.
+To conclude, if Chromium continues without competition, there won't be much of a free web in the future. That's why I appeal to you, a Chromium browser user, to consider trying [Firefox](https://www.mozilla.org/en-US/firefox/new/), and you Firefox user, pass on this message.
