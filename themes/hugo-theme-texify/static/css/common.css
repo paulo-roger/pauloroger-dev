@@ -108,7 +108,7 @@ span.word-count {
 }
 
 .link {
-    color: #337DFF;
+    color: #005DFF;
     text-decoration: underline;
 }
 
@@ -151,11 +151,11 @@ span.word-count {
 }
 /* .lang > a:hover {
 	text-decoration: underline !important;
-    color: #337DFF;
+    color: #005DFF;
 } */
 a:hover {
 	text-decoration: underline !important;
-    color: #337DFF;
+    color: #005DFF;
 }
 
 /* Mobile */

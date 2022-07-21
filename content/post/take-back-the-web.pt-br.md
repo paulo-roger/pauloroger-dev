@@ -2,7 +2,7 @@
 title: "Take Back the Web"
 date: 2022-07-19T01:32:42-03:00
 draft: false
-tags: [Internet, Web, FOSS, Firefox] 
+tags: [internet, web, foss, firefox] 
 ---
 
 Talvez você já seja um usuário do Firefox, somos parte de uma minoria hoje na web, e pense que esse texto não seja para você. Provavelmente você esteja certo, mas gostaria de trazer aqui alguns pontos e pedir sua ajuda para tomarmos a web de volta antes que seja tarde demais.
