@@ -149,7 +149,11 @@ span.word-count {
     top: 25px;
     flex-direction: column;
 }
-.lang > a:hover {
+/* .lang > a:hover {
+	text-decoration: underline !important;
+    color: #337DFF;
+} */
+a:hover {
 	text-decoration: underline !important;
     color: #337DFF;
 }
