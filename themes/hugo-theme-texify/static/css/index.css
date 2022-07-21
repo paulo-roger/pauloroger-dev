@@ -16,7 +16,8 @@
 
 #main > .post > .content {
     padding-top: 1rem;
-    text-align: justify;
+    text-align: left;
+    /* era justify */
 }   
 
 @media screen and (min-width: 768px) {

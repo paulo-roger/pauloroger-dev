@@ -91,7 +91,8 @@
 }
 
 .content p {
-    text-align: justify;
+    text-align: left;
+    /* Antes era justify */
 }
 
 .content pre {
