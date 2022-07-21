@@ -23,12 +23,18 @@
     #main > .post > div {
         margin-left: 2rem;
     }
+}
+
+@media screen and (max-width: 768px) {
     #main > .post > h2 {
-        align-items: flex-start;
-        flex-direction: column;
-        margin-bottom: 4px;
+        display: grid;
+        justify-content: unset;
+        margin-left: -0.8rem;
     }
     #main > .post > h2 > time {
-        align-items: flex-end;
+        text-align-last: right
+    }
+    #main > .post > div {
+        margin-left: 0.5rem;
     }
 }
