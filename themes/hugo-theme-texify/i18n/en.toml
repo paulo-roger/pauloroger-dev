@@ -15,3 +15,9 @@ other = 'Follow me on'
 
 [or]
 other = 'or'
+
+[prev]
+other = 'prev'
+
+[next]
+other = 'next'

@@ -15,7 +15,7 @@
 }
 
 .content a {
-    color: #00aff4;
+    color: #337DFF;
     text-decoration: underline;
 }
 
@@ -52,7 +52,7 @@
 .content code {
     background-color: #F5F5F5;
     border-radius: .2rem;
-    color: #00aff4;
+    color: #337DFF;
     font-family: 'Latin Modern Mono', Courier, monospace;
     padding: 0 .2rem;
 }

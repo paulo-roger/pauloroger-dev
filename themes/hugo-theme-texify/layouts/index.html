@@ -32,19 +32,19 @@
       {{ else }}
       {{ .Summary }}
       {{ end }}
-      <a href="{{ .Permalink }}">{{ i18n "keepreading" }}</a>
+      <a class="link" href="{{ .Permalink }}">{{ i18n "keepreading" }}</a>
     </div>
   </div>
   {{ end }}
   {{ if or $paginator.HasPrev $paginator.HasNext}}
   <div class="paginator">
     {{ if $paginator.HasPrev }}
-    <a class="link" href="{{ $paginator.Prev.URL }}">← prev</a>
+    <a class="link" href="{{ $paginator.Prev.URL }}">← {{ i18n "prev" }}</a>
     {{ else }}
     <a></a>
     {{ end }}
     {{ if $paginator.HasNext }}
-    <a class="link" href="{{ $paginator.Next.URL }}">next →</a>
+    <a class="link" href="{{ $paginator.Next.URL }}">{{ i18n "next" }} →</a>
     {{ else }}
     <a></a>
     {{ end }}

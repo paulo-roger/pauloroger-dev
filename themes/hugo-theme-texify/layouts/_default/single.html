@@ -47,12 +47,12 @@
   </article>
   <div class="paginator">
     {{ if .PrevInSection }}
-    <a class="link" href="{{ .PrevInSection.Permalink }}">← prev</a>
+    <a class="link" href="{{ .PrevInSection.Permalink }}">← {{ i18n "prev" }}</a>
     {{ else }}
     <a></a>
     {{ end }}
     {{ if .NextInSection }}
-    <a class="link" href="{{ .NextInSection.Permalink }}">next →</a>
+    <a class="link" href="{{ .NextInSection.Permalink }}">{{ i18n "next" }} →</a>
     {{ else }}
     <a></a>
     {{ end }}

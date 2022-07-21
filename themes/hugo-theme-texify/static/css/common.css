@@ -108,7 +108,7 @@ span.word-count {
 }
 
 .link {
-    color: #00aff4;
+    color: #337DFF;
     text-decoration: underline;
 }
 
@@ -148,6 +148,10 @@ span.word-count {
     right: 100px;
     top: 25px;
     flex-direction: column;
+}
+.lang > a:hover {
+	text-decoration: underline !important;
+    color: #337DFF;
 }
 
 /* Mobile */
