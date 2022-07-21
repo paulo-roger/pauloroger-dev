@@ -13,7 +13,7 @@ languageCode = "en"                # content language
 paginate = 5                       # number of posts each page
 rssLimit = 10                      # maximum items in rss feeds
 theme = "hugo-theme-texify"        # theme directory name
-title = "Paulo Roger.dev"                   # website title
+title = "Paulo Roger"                   # website title
 
 [author]
 email = "me@pauloroger.dev" # your email
