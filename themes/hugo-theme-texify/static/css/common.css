@@ -175,7 +175,7 @@ a:hover {
     margin-bottom: 12px;
 }
 
-.nav-bar-item {
+.nav-bar-item:not(:last-child) {
 	margin-right: 20px;
 }
 
