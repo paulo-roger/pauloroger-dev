@@ -57,8 +57,7 @@ tags = "tags"
 [params]
 description = "Paulo Roger's personal blog" # website description
 favicon = "favicon.ico" # path to website icon, relative to ./static
-footnote = """ <a class=link href=https://github.com/paulo-roger>GitHub</a>, <a class=link rel="me" href="https://mastodon.online/@pauloroger_">Mastodon</a>, 
-<a class=link href=https://twitter.com/pauloroger_>Twitter</a>
+footnote = """ <a class=link href=https://github.com/paulo-roger>GitHub</a>, <a class=link rel="me" href="https://mastodon.online/@pauloroger_">Mastodon</a>
 """ # notes in the website footer
 keywords = ["developer", "commerce cloud", "it", "web"] # website keywords
 
